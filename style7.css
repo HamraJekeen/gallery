@@ -1,0 +1,9 @@
+.container>div{
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
+img{
+    width: 330px;
+    height: 330px;
+}
